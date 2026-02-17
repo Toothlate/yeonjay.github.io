@@ -18,19 +18,30 @@
 
 ---
 
-## 🖼️ 주요 공간 컨셉 (Core Concepts)
+## 🖼️ Visual Gallery: 공간의 서사 (Core Concepts)
 
-### **1. The Canoe Table: 치유의 중심**
-실제 카누를 활용한 유니크한 바 테이블로 '영적 항해'의 중심축을 형성합니다.
-![Canoe Table Concept](./canoe-table_1.png)
+### **Part 1. The Canoe Table (치유의 중심)**
+*실제 카누를 활용하여 안내자와 참여자가 마주 앉는 영적 중심지를 형상화했습니다.*
 
-### **2. The Red Carpet: 환대와 몰입**
-강렬한 레드 컬러를 통해 공간에 들어서는 순간의 감각을 깨우는 설계를 적용했습니다.
-![Red Carpet Mood](./redcarpet_01.png)
+| | | |
+| :---: | :---: | :---: |
+| ![Canoe 1](./canoe-table_1.png) | ![Canoe 2](./canoe-table_2.png) | ![Canoe 3](./canoe-table_3.png) |
 
-### **3. Nautical Interior: 항해의 미학**
-빈티지 해양 도구와 다크 아카데미아 무드가 결합된 총체적 공간 연출입니다.
-![Nautical Design](./nautical_01.png)
+### **Part 2. The Red Carpet (환대와 몰입)**
+*강렬한 레드 컬러를 통해 공간에 들어서는 순간의 감각을 깨우는 설계를 적용했습니다.*
+
+| | | |
+| :---: | :---: | :---: |
+| ![Red 1](./redcarpet_01.png) | ![Red 2](./redcarpet_02.png) | ![Red 3](./redcarpet_03.png) |
+
+### **Part 3. Nautical Interior (항해의 미학)**
+*빈티지 해양 도구와 다크 아카데미아 무드가 결합된 총체적 공간 연출입니다.*
+
+| | | |
+| :---: | :---: | :---: |
+| ![Nau 1](./nautical_01.png) | ![Nau 2](./nautical_02.png) | ![Nau 3](./nautical_03.png) |
+
+> *미드저니 AI를 통해 구현된 32종의 공간 시뮬레이션 중 주요 발췌본입니다.*
 
 ---
 
@@ -38,9 +49,9 @@
 * **Creative Director:** Yeonjay Woo (우연재)
 * **Design Methodology:** Midjourney AI 기반 비주얼 브랜딩 및 시나리오 설계
 * **Track Record:** - 정부 산하 IT/디지털 혁신 기관 연계 기획 프로젝트 수행
-  - **대학 산학협력단 협업 공간 및 문화 콘텐츠 프로젝트 리딩** <-- '주요'를 빼고 이렇게!
+  - 대학 산학협력단 협업 공간 및 문화 콘텐츠 프로젝트 리딩
   - 전문가 플랫폼 상업 광고 기획 및 AI 모델링 프로젝트 검증
-  - [FUEL STAY / Mystic Brew] 실증 공간 운영 및 총괄 기획
+  - **[FUEL STAY / Mystic Brew]** 실증 공간 운영 및 총괄 기획
 
 ---
 
