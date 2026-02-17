@@ -41,8 +41,6 @@
 | :---: | :---: | :---: |
 | ![Nau 1](./nautical_01.png) | ![Nau 2](./nautical_02.png) | ![Nau 3](./nautical_03.png) |
 
-> *미드저니 AI를 통해 구현된 32종의 공간 시뮬레이션 중 주요 발췌본입니다.*
-
 ---
 
 ## 🛠️ 기획자 전문성 및 실적 (Credentials)
