@@ -21,6 +21,7 @@
 ## 🖼️ Visual Gallery: 공간의 서사 (Core Concepts)
 
 ### **Part 1. The Canoe Table**
+
 | | | |
 | :---: | :---: | :---: |
 | ![Canoe 1](canoe-table_1.png) | ![Canoe 2](canoe-table_2.png) | ![Canoe 3](canoe-table_3.png) |
@@ -29,13 +30,16 @@
 | ![Canoe 10](canoe-table_10.png) | ![Canoe 11](canoe-table_11.png) | ![Canoe 12](canoe-table_12.png) |
 
 ### **Part 2. The Red Carpet**
+
 | | | |
 | :---: | :---: | :---: |
 | ![Red 1](redcarpet_01.png) | ![Red 2](redcarpet_02.png) | ![Red 3](redcarpet_03.png) |
 | ![Red 4](redcarpet_04.png) | ![Red 5](redcarpet_05.png) | ![Red 6](redcarpet_06.png) |
-| ![Red 7](redcarpet_07.png) | ![Red 8](redcarpet_08.png) | |
+| ![Red 7](redcarpet_07.png) | ![Red 8](redcarpet_08.png) | ![Red 9](redcarpet_09.png) |
+| ![Red 10](redcarpet_10.png) | ![Red 11](redcarpet_11.png) | |
 
 ### **Part 3. Nautical Interior**
+
 | | | |
 | :---: | :---: | :---: |
 | ![Nau 1](nautical_01.png) | ![Nau 2](nautical_02.png) | ![Nau 3](nautical_03.png) |
