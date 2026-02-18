@@ -20,29 +20,28 @@
 
 ## 🖼️ Visual Gallery: 공간의 서사 (Core Concepts)
 
-### **Part 1. The Canoe Table (10장)**
+### **Part 1. The Canoe Table**
 | | | |
 | :---: | :---: | :---: |
-| ![Canoe 1](./canoe-table_1.png) | ![Canoe 2](./canoe-table_2.png) | ![Canoe 3](./canoe-table_3.png) |
-| ![Canoe 4](./canoe-table_4.png) | ![Canoe 5](./canoe-table_5.png) | ![Canoe 6](./canoe-table_6.png) |
-| ![Canoe 7](./canoe-table_7.png) | ![Canoe 8](./canoe-table_8.png) | ![Canoe 9](./canoe-table_9.png) |
-| ![Canoe 10](./canoe-table_10.png) | | |
+| ![Canoe 1](canoe-table_1.png) | ![Canoe 2](canoe-table_2.png) | ![Canoe 3](canoe-table_3.png) |
+| ![Canoe 4](canoe-table_4.png) | ![Canoe 5](canoe-table_5.png) | ![Canoe 6](canoe-table_6.png) |
+| ![Canoe 7](canoe-table_7.png) | ![Canoe 8](canoe-table_8.png) | ![Canoe 9](canoe-table_9.png) |
+| ![Canoe 10](canoe-table_10.png) | ![Canoe 11](canoe-table_11.png) | ![Canoe 12](canoe-table_12.png) |
 
-### **Part 2. The Red Carpet (11장)**
+### **Part 2. The Red Carpet**
 | | | |
 | :---: | :---: | :---: |
-| ![Red 1](./redcarpet_01.png) | ![Red 2](./redcarpet_02.png) | ![Red 3](./redcarpet_03.png) |
-| ![Red 4](./redcarpet_04.png) | ![Red 5](./redcarpet_05.png) | ![Red 6](./redcarpet_06.png) |
-| ![Red 7](./redcarpet_07.png) | ![Red 8](./redcarpet_08.png) | ![Red 9](./redcarpet_09.png) |
-| ![Red 10](./redcarpet_10.png) | ![Red 11](./redcarpet_11.png) | |
+| ![Red 1](redcarpet_01.png) | ![Red 2](redcarpet_02.png) | ![Red 3](redcarpet_03.png) |
+| ![Red 4](redcarpet_04.png) | ![Red 5](redcarpet_05.png) | ![Red 6](redcarpet_06.png) |
+| ![Red 7](redcarpet_07.png) | ![Red 8](redcarpet_08.png) | |
 
-### **Part 3. Nautical Interior (11장)**
+### **Part 3. Nautical Interior**
 | | | |
 | :---: | :---: | :---: |
-| ![Nau 1](./nautical_01.png) | ![Nau 2](./nautical_02.png) | ![Nau 3](./nautical_03.png) |
-| ![Nau 4](./nautical_04.png) | ![Nau 5](./nautical_05.png) | ![Nau 6](./nautical_06.png) |
-| ![Nau 7](./nautical_07.png) | ![Nau 8](./nautical_08.png) | ![Nau 9](./nautical_09.png) |
-| ![Nau 10](./nautical_10.png) | ![Nau 11](./nautical_11.png) | |
+| ![Nau 1](nautical_01.png) | ![Nau 2](nautical_02.png) | ![Nau 3](nautical_03.png) |
+| ![Nau 4](nautical_04.png) | ![Nau 5](nautical_05.png) | ![Nau 6](nautical_06.png) |
+| ![Nau 7](nautical_07.png) | ![Nau 8](nautical_08.png) | ![Nau 9](nautical_09.png) |
+| ![Nau 10](nautical_10.png) | ![Nau 11](nautical_11.png) | ![Nau 12](nautical_12.png) |
 
 ---
 
