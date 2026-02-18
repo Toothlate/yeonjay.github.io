@@ -35,8 +35,7 @@
 | :---: | :---: | :---: |
 | ![Red 1](redcarpet_01.png) | ![Red 2](redcarpet_02.png) | ![Red 3](redcarpet_03.png) |
 | ![Red 4](redcarpet_04.png) | ![Red 5](redcarpet_05.png) | ![Red 6](redcarpet_06.png) |
-| ![Red 7](redcarpet_07.png) | ![Red 8](redcarpet_08.png) | ![Red 9](redcarpet_09.png) |
-| ![Red 10](redcarpet_10.png) | ![Red 11](redcarpet_11.png) | |
+| ![Red 7](redcarpet_07.png) | ![Red 8](redcarpet_08.png) | |
 
 ### **Part 3. Nautical Interior**
 
