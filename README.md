@@ -62,4 +62,4 @@
 
 ## ✉️ Contact
 * **Portfolio:** [https://yeonjay.github.io](https://yeonjay.github.io)
-* **Business:** AXIOM (MICE Solutions)
+* **Business:** AXIOM (MICE Solutions).
